@@ -1,2 +1,1 @@
-# xavierashton.github.io
-for web development class
+this is xavier ashtons website
